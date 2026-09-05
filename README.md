@@ -32,7 +32,7 @@ My background spans 15 years in IT that includes support, cyber security, system
 - 🔍 **OSINT**
 - 🖳 **Home Lab**
   
-### Favorite
+### Favorites
 - 🎼 **Music**: House
 - 📺 **TV Shows**: Picard, The West Wing, M.A.S.H, Rick and Morty, Herman's Head, Sliders, Star Trek: The Next Generation
 - 🚀 **Captain**: Picard
