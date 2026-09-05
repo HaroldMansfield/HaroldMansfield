@@ -27,3 +27,8 @@ My background spans 15 years in IT support, cyber security, systems administrati
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
