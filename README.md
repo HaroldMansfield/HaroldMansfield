@@ -28,16 +28,16 @@ My background spans 15 years in IT that includes support, cyber security, system
   <img align="right" width="300" src="https://smbconsultants.ai/wp-content/uploads/2026/09/verb.png">
   
 ### Hobbies
-- 🔐 Privacy Tools & Strategies
-- 🔍 OSINT Hobbiest 
-- 🖳 Home Lab Experiments
+- 🔐 **Privacy Tools & Strategies**
+- 🔍 **OSINT**
+- 🖳 **Home Lab**
   
 ### Favorite
-- 🎼 Music: House
-- 📺 TV Shows: Picard, The West Wing, M.A.S.H, Rick and Morty, Herman's Head, Sliders, Star Trek: The Next Generation
-- 🚀 Captain: Picard
-- 🥃 2nd Captain: Morgan 
-- ⭐ VERB! That's what's happening!
+- 🎼 **Music**: House
+- 📺 **TV Shows**: Picard, The West Wing, M.A.S.H, Rick and Morty, Herman's Head, Sliders, Star Trek: The Next Generation
+- 🚀 **Captain**: Picard
+- 🥃 **2nd Captain**: Morgan 
+- ⭐ **Schoolhouse Rock**: VERB! That's what's happening!
 
 
 
