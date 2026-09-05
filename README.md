@@ -5,7 +5,7 @@
 
 𝗣𝗲𝗼𝗽𝗹𝗲 𝗵𝗶𝗿𝗲 𝗺𝗲 𝘁𝗼 𝗵𝗲𝗹𝗽 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗮𝗻𝗱 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗔𝗜 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝘁 𝗶𝗺𝗽𝗿𝗼𝘃𝗲 𝘁𝗵𝗲𝗶𝗿 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀, 𝗮𝗻𝗱 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀. 
 
-My background spans 15 years in IT support, cyber security, systems administration and support for emerging technologies across complex regulated environments as well as SMBs and their teams. 
+My background spans 15 years in IT that includes support, cyber security, systems administration and training clients and colleagues on emerging technologies across complex regulated environments.
 
 📢  Recently my perspective as an independent AI consultant was also featured in Bloomberg as part of its coverage of the debate surrounding distillation of frontier AI models - <a href="https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc">"Washington Is Looking to Keep China From Training Its AI on US Models"</a>. 
 
