@@ -24,7 +24,7 @@ My background spans 15 years in IT that includes support, cyber security, system
 
 ---
 
-  <img align="right" width="350" src="https://smbconsultants.ai/wp-content/uploads/2026/09/verb.png">
+  <img align="right" width="300" src="https://smbconsultants.ai/wp-content/uploads/2026/09/verb.png">
   
 ### Fun Facts About Me
 - 🔐 Privacy Advocate
