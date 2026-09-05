@@ -18,8 +18,10 @@ My background spans 15 years in IT support, cyber security, systems administrati
 <img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/lmstudio.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/ollama.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/aionlabs.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/openclaw.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/hermesagent.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/huggingface.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/mcp.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/n8n.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/firecrawl.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/langchain.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/obsidian.png"/>
 
 ---
-### Fun Facts About Me
 
+  <img align="right" width="350" src="https://smbconsultants.ai/wp-content/uploads/2026/09/verb.png">
+  
+### Fun Facts About Me
 - 🔐 Privacy Advocate
 - 🔍 OSINT Hobbiest 
 - 🖳 Home Labber
@@ -32,7 +34,14 @@ My background spans 15 years in IT support, cyber security, systems administrati
 - 🥃 2nd Favorite Captain: Morgan 
 - ⭐ Schoolhouse Rock: VERB! That's what's happening!
 
+
+
+
+
+
 ---
+
+
 
 <div align="center">
 
