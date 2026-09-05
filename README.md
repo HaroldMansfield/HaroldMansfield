@@ -17,16 +17,23 @@ My background spans 15 years in IT support, cyber security, systems administrati
 ### AI Tools & Platforms
 <img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/lmstudio.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/ollama.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/aionlabs.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/openclaw.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/hermesagent.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/huggingface.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/mcp.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/n8n.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/firecrawl.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/langchain.png"/><img height="50" hspace="5" src="https://smbconsultants.ai/wp-content/uploads/2026/09/obsidian.png"/>
 
+---
+### Fun Facts About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Privacy Advocate
+- 🔍 OSINT Hobbiest 
+- 🖳 Home Labber
+- 🍸 In a previous life I was a Las Vegas bartender
+  
+### Favorite things
+- 🎼 Music: House
+- 📺 TV Shows: Picard, The West Wing, M.A.S.H, Rick and Morty, Herman's Head, Sliders, Star Trek: The Next Generation
+- 🚀 Captain: Picard
+- 🥃 2nd Favorite Captain: Morgan 
+- ⭐ Schoolhouse Rock: VERB! That's what's happening!
+
+---
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
