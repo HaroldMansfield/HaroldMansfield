@@ -31,6 +31,7 @@ My background spans 15 years in IT that includes support, cyber security, system
 - 🔐 **Privacy Tools & Strategies**
 - 🔍 **OSINT**
 - 🖳 **Home Lab**
+- 🇺🇸 **The Samaritan Project**
   
 ### Favorites
 - 🎼 **Music**: House
