@@ -1,19 +1,30 @@
 # Harold Mansfield
-**`Sec+ CySA+`**
 
-People hire me to solve business problems, and integrate practical AI solutions that improve processes and workflows. 
+**AI Consultant & Integration Specialist | Security+ | CySA+**
 
-**🗸  Build custom skills.<br>**
-**🗸  Build and deploy Agents.<br>**
-**🗸  Design prompts and workflows.<br>**
-**🗸  Assist with AI security.<br>**
-**🗸  Provide ongoing training, and support with emerging AI technologies.**
+I help organizations solve business problems with practical AI, automation, and workflow design. My work spans hands-on IT consulting, technical support, cybersecurity, systems administration, training, and guiding global clients and colleagues through emerging technologies in complex regulated environments.
 
-My background spans 15 years of hands-on IT consulting, support, cyber security, systems administration, training and guiding global clients and colleagues on emerging technologies across complex regulated environments.
+- 🗸 Build custom AI skills
+- 🗸 Build and deploy AI agents
+- 🗸 Design prompts and workflow systems
+- 🗸 Assist with AI security and privacy reviews
+- 🗸 Provide training and ongoing support for emerging AI tools
 
-📰  **Recently my perspective as an AI consultant was featured in Bloomberg** as part of its coverage of the debate surrounding distillation of frontier AI models -> **<a href="https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc">"Washington Is Looking to Keep China From Training Its AI on US Models"</a>**. 
+📰 **Featured in Bloomberg:** My perspective as an AI consultant was included in Bloomberg's coverage of frontier-model distillation: ["Washington Is Looking to Keep China From Training Its AI on US Models"](https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc).
 
-**👉 Access to private repositories and portfolio is available by request.**
+**Portfolio note:** Several project repositories are private while I complete a cleanup and review pass. Access is available on request for hiring managers, collaborators, and reviewers.
+
+## Selected work
+
+| Project | What it demonstrates | Status |
+| --- | --- | --- |
+| Bookmark Ninja | AI skill for organizing and working with bookmark exports | Private, access by request |
+| Humanize | Writing workflow for removing common AI-generated writing patterns | Private, access by request |
+| Fact Checker | Evidence-grounded claim verification with cited sources | Private, access by request |
+| Search Ninja | Safe public web research and source-discovery workflow | Private, access by request |
+| We The People | Civic public-record legislative lookup skill using Congress.gov and FEC sources | Private, access by request |
+| The Samaritan Project | Build notes, project hub, and public research workflow documentation | Private, access by request |
+
 <!--
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23ffdd00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 -->
@@ -37,7 +48,7 @@ My background spans 15 years of hands-on IT consulting, support, cyber security,
   
 ### Hobbies
 - 🔐 **Privacy Tools & Strategies**
-- 🔍 **OSINT**
+- 🔍 **Public records and research workflows**
 - 🖳 **Home Lab**
 - 🇺🇸 **The Samaritan Project**
   
@@ -47,18 +58,3 @@ My background spans 15 years of hands-on IT consulting, support, cyber security,
 - 🚀 **Captain**: Picard
 - 🥃 **2nd Captain**: Morgan 
 - ⭐ **Schoolhouse Rock**: VERB! That's what's happening!
-
-
-
-
-
-
----
-
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
