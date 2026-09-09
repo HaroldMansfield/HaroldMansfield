@@ -12,6 +12,8 @@ People hire me to solve business problems, and integrate practical AI solutions 
 My background spans 15 years of hands-on IT consulting, support, cyber security, systems administration, training and guiding global clients and colleagues on emerging technologies across complex regulated environments.
 
 📰  **Recently my perspective as an AI consultant was featured in Bloomberg** as part of its coverage of the debate surrounding distillation of frontier AI models -> **<a href="https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc">"Washington Is Looking to Keep China From Training Its AI on US Models"</a>**. 
+
+**👉 Access to private repositories and portfolio is available by request.**
 <!--
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23ffdd00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 -->
