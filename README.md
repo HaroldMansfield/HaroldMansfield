@@ -22,6 +22,7 @@ I help organizations solve business problems with practical AI, automation, and 
 | Humanize | Writing workflow for removing common AI-generated writing patterns | Private, access by request |
 | Fact Checker | Evidence-grounded claim verification with cited sources | Private, access by request |
 | Search Ninja | Safe public web research and source-discovery workflow | Private, access by request |
+| Signals | Private geospatial signals-mapping tool for combining public infrastructure, aviation, maritime, satellite, and wireless data sources | Private, access by request |
 | We The People | Civic public-record legislative lookup skill using Congress.gov and FEC sources | Private, access by request |
 | The Samaritan Project | Build notes, project hub, and public research workflow documentation | Private, access by request |
 
