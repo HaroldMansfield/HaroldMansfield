@@ -2,7 +2,7 @@
 
 **AI Consultant & Integration Specialist | Security+ | CySA+**
 
-I help organizations solve business problems with practical AI, automation, and workflow design. My work spans hands-on IT consulting, technical support, cybersecurity, systems administration, training, and guiding global clients and colleagues through emerging technologies in complex regulated environments.
+I help people solve business problems with practical AI, automation, and workflow design. My work spans hands-on IT consulting, technical support, cybersecurity, systems administration, training, and guiding global clients and colleagues through emerging technologies in complex regulated environments.
 
 - 🗸 Build custom AI skills
 - 🗸 Build and deploy AI agents
