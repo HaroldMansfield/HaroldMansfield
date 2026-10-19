@@ -44,14 +44,14 @@ My expertise is based on 10+ years of hands-on IT consulting, technical support,
   <a href="https://www.youtube.com/watch?v=5EicxQxzsW4"><img align="right" width="300" title="VERB! That's what's happening!" src="https://haroldmansfield.com/wp-content/uploads/2026/09/verb.png"></a>
   
 ### Hobbies
-- 🔐 **Privacy Tools & Strategies**
-- 🔍 **Public records and research workflows**
-- 🖳 **Home Lab**
+- 🔐 **Privacy & Security Strategies**
+- 🔍 **Open Source & Public Data research**
+- 🖳 **Home Labbing**
 - 🇺🇸 **The Samaritan Project**
   
 ### Favorites
 - 🎼 **Music**: House
-- 📺 **TV Shows**: Picard, The West Wing, M.A.S.H, Rick and Morty, Herman's Head, Sliders, Star Trek: The Next Generation
+- 📺 **TV Shows**: The West Wing, M.A.S.H, Rick and Morty, Herman's Head, Sliders, Star Trek: TNG, Voyager, Picard
 - 🚀 **Captain**: Picard
 - 🥃 **2nd Captain**: Morgan 
 - ⭐ **Schoolhouse Rock**: VERB! That's what's happening!
