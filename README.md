@@ -2,13 +2,9 @@
 
 **AI Consultant & Integration Specialist | Security+ | CySA+**
 
-I help people solve business problems with practical AI, automation, and workflow design. My work spans hands-on IT consulting, technical support, cybersecurity, systems administration, training, and guiding global clients and colleagues through emerging technologies in complex regulated environments.
+𝗜 𝘁𝗲𝗮𝗰𝗵 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀𝗲𝘀 𝗔𝗜 𝗳𝗹𝘂𝗲𝗻𝗰𝘆, 𝗺𝗮𝗻𝗮𝗴𝗲 𝗱𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁, 𝗯𝘂𝗶𝗹𝗱 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝗔𝗜 𝗰𝗼𝗻𝘀𝘂𝗹𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘁𝗵𝗮𝘁 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝘀 𝗵𝗼𝘄 𝘁𝗲𝗮𝗺𝘀 𝘄𝗼𝗿𝗸. 
 
-- 🗸 Build custom AI skills
-- 🗸 Build and deploy AI agents
-- 🗸 Design prompts and workflow systems
-- 🗸 Assist with AI security and privacy reviews
-- 🗸 Provide training and ongoing support for emerging AI tools
+My expertise is based on 10+ years of hands-on IT consulting, technical support, cybersecurity, systems administration, training, and guiding global clients and colleagues through emerging technologies in complex regulated environments.
 
 📰 **Featured in Bloomberg:** My perspective as an AI consultant was included in Bloomberg's coverage of frontier-model distillation: ["Washington Is Looking to Keep China From Training Its AI on US Models"](https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc).
 
