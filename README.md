@@ -1,10 +1,8 @@
 # Harold Mansfield
 
-**AI Consultant & Integration Specialist | Security+ | CySA+**
+**My life is tech. I do tech stuff.**
 
-𝗜 𝘁𝗲𝗮𝗰𝗵 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀𝗲𝘀 𝗔𝗜 𝗳𝗹𝘂𝗲𝗻𝗰𝘆, 𝗺𝗮𝗻𝗮𝗴𝗲 𝗱𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁, 𝗯𝘂𝗶𝗹𝗱 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝗔𝗜 𝗰𝗼𝗻𝘀𝘂𝗹𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘁𝗵𝗮𝘁 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝘀 𝗵𝗼𝘄 𝘁𝗲𝗮𝗺𝘀 𝘄𝗼𝗿𝗸. 
-
-My expertise is based on 10+ years of hands-on IT consulting, technical support, cybersecurity, systems administration, training, and guiding global clients and colleagues through emerging technologies in complex regulated environments.
+15+ years of hands-on IT consulting, solutions and figuring things out including: technical support, cybersecurity, systems administration, fluency training, and guiding global clients and colleagues through emerging technologies in complex regulated environments.
 
 📰 **Featured in Bloomberg:** My perspective as an AI consultant was included in Bloomberg's coverage of frontier-model distillation: ["Washington Is Looking to Keep China From Training Its AI on US Models"](https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc).
 
