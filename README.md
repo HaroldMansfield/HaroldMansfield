@@ -2,7 +2,7 @@
 
 **My life is tech. I do tech stuff.**
 
-15+ years of hands-on IT consulting, solutions and figuring things out including: technical support, cybersecurity, systems administration, fluency training, and guiding global clients and colleagues through emerging technologies in complex regulated environments.
+15+ years of hands-on IT consulting, technical support, cybersecurity, systems administration, fluency training, and guiding global clients and colleagues through emerging technologies in complex regulated environments. 
 
 📰 **Featured in Bloomberg:** My perspective as an AI consultant was included in Bloomberg's coverage of frontier-model distillation: ["Washington Is Looking to Keep China From Training Its AI on US Models"](https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc).
 
